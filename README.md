@@ -1,7 +1,10 @@
 <p align="center">
-  <b><font size="6">Hi 👋, I'm C Arun</font></b><br>
-  <b><font size="4">A passionate AI, Machine Learning, and Data Analytics enthusiast from India.</font></b><br>
-  <b><font size="4">Currently looking for full-time roles in Data Analytics, Machine Learning, or AI-driven application development.</font></b>
+  <b><font size="16">C Arun</font></b>
+</p>
+
+<p align="center">
+  <b><font size="10">A passionate AI, Machine Learning, and Data Analytics enthusiast from India.</font></b><br>
+  <b><font size="10">Currently looking for full-time roles in Data Analytics, Machine Learning, or AI-driven application development.</font></b>
 </p>
 
 
