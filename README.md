@@ -1,7 +1,11 @@
-## Hi there 👋
+<p align="center">
+  Hi 👋, I'm Arun Chinthalapally<br>
+  A passionate AI, Machine Learning, and Data Analytics enthusiast from India.<br>
+  Currently looking for full-time roles in Data Analytics, Machine Learning, or AI-driven application development.
+</p>
 
 # 💫 About Me
-👋 Hi there! I'm **Arun Chinthalapally**, a passionate Data Analyst & Machine Learning enthusiast building real-world, data-driven solutions.
+I'm **Arun Chinthalapally**, a passionate Data Analyst & Machine Learning enthusiast building real-world, data-driven solutions.
 
 🎓 B.Tech CSE (2025) from Parul University, Gujarat, India.  
 🌱 Growing in **Data Visualization (Power BI, Tableau)**, **Machine Learning**, and **Advanced SQL**.  
