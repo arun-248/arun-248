@@ -32,7 +32,7 @@ I'm a Data Analytics and Machine Learning enthusiast who enjoys turning raw data
 Project Name | Tools | Source Code | 
 ------- | --------- | :--------: | 
 Stock Trend Analyzer | Python, Semantic Search, Vector Database, LLM | [Repo](https://github.com/arun-248/stock-trend-analyzer)
-IPL Victory Probability Estimator | Python, ML, EDA | [Repo](https://github.com/arun-248/ipl-victory-estimator)
+IPL Victory Probability Estimator | Python, ML, EDA | [Repo](https://github.com/arun-248/IPL-Victory-Probability.git)
 Personalized Book Recommendation System | Python, Collaborative Filtering, Cosine Similarity | [Repo](https://github.com/arun-248/book-recommender)
 Heart Disease Prediction | Python, Logistic Regression, ML | [Repo](https://github.com/arun-248/heart-disease-prediction)
 
