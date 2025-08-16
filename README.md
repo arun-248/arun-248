@@ -16,14 +16,17 @@ I'm a Data Analytics and Machine Learning enthusiast who enjoys turning raw data
 - Linkedin: [LinkedIn](https://www.linkedin.com/in/arun-chinthalapally-7a254b256)
 - Resume: [Resume](https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing)
 
-## 🛠 Skills
-| Domain             | Tech Stack                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Data Science | Python, pandas, numpy, SQL, Data Cleaning, EDA |
-| Machine Learning | scikit-learn, Logistic Regression, Random Forest, Model Evaluation |
-| Data Visualization | Power BI, matplotlib, seaborn, Tableau |
-| Tools & Technologies | Jupyter Notebook, Git, Google Colab |
-| Other Skills | Cyber Security, Data Structures & Algorithms, OOPs |
+## 🛠 Skills  
+
+| Domain             | Tech Stack                                                                |  
+| ------------------ | -------------------------------------------------------------------------- |  
+| Data Science       | Python, pandas, numpy, SQL, Data Cleaning, EDA, Feature Engineering, Time Series Analysis |  
+| Machine Learning   | scikit-learn, Logistic Regression, Random Forest, XGBoost, Gradient Boosting, Hyperparameter Tuning |  
+| Artificial Intelligence | OpenAI GPT, LangChain, Hugging Face Transformers, Prompt Engineering, RAG (Retrieval-Augmented Generation), Fine-tuning, Knowledge Graphs, Vector Databases (Pinecone, FAISS), LLMOps |  
+| Data Visualization | Power BI, matplotlib, seaborn, Plotly, Interactive Dashboards, Data Storytelling |  
+| Tools & Technologies | Jupyter Notebook, Git, Google Colab, VS Code, Cloud Platforms (AWS, Azure) |  
+| Other Skills       | Cyber Security, Data Structures & Algorithms, OOPs, MERN |  
+
 
 ## 🔭 Projects
 <summary><b>Data Analytics & Machine Learning</b></summary>
