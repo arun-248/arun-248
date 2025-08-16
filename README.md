@@ -49,7 +49,9 @@ Heart Disease Prediction | Python, Logistic Regression, ML | [Repo](https://gith
   <a href="https://www.instagram.com/your-instagram/" target="_blank"><img alt="Instagram" width="40px" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png"></a> &nbsp;&nbsp;
   <a href="https://x.com/Arun2484?s=08" target="_blank"><img alt="X (Twitter)" width="40px" src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png"></a> &nbsp;&nbsp;
   <a href="https://leetcode.com/u/arun248/" target="_blank"><img alt="LeetCode" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"></a> &nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/profile/c_arun6278" target="_blank"><img alt="HackerRank" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/HackerRank_Icon-1000px.png"></a> &nbsp;&nbsp;
+   <a href="https://www.hackerrank.com/profile/c_arun6278" target="_blank">
+    <img alt="HackerRank" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png">
+  </a> &nbsp;&nbsp;
   <a href="https://huggingface.co/arun2484" target="_blank"><img alt="Hugging Face" width="40px" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"></a> &nbsp;&nbsp;
   <a href="https://www.kaggle.com/chinthalapallyarun" target="_blank"><img alt="Kaggle" width="40px" src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png"></a>
 </p>
