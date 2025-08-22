@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arun Chinthalapally</h1>
 <h3 align="center">A passionate AI, Machine Learning, and Data Analytics enthusiast from India. Currently looking for full-time roles in Data Analytics, Machine Learning, or AI-driven applications <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h3>
-
-## 🚀 About Me
+.
 I'm a Data Analytics and Machine Learning enthusiast who enjoys turning raw data into actionable insights and building predictive models.
 
 🌱 I’m currently exploring **cutting-edge Machine Learning algorithms, AI-driven predictive modeling, and sophisticated Data Visualization methodologies** to transform raw data into actionable insights.
