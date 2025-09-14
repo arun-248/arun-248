@@ -64,7 +64,7 @@ Heart Disease Prediction | Python, Logistic Regression, ML | [Repo](https://gith
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-  <a href="https://github.com/arun-248" target="_blank"><img alt="GitHub" width="40px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png"></a> &nbsp;&nbsp;
+
   <a href="https://www.linkedin.com/in/arun-chinthalapally-7a254b256" target="_blank"><img alt="LinkedIn" width="40px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"></a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/your-instagram/" target="_blank"><img alt="Instagram" width="40px" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png"></a> &nbsp;&nbsp;
   <a href="mailto:arunchinthalapally248@gmail.com" target="_blank"><img alt="Gmail" width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"></a> &nbsp;&nbsp;
@@ -73,5 +73,5 @@ Heart Disease Prediction | Python, Logistic Regression, ML | [Repo](https://gith
   <a href="https://www.hackerrank.com/profile/c_arun6278" target="_blank"><img alt="HackerRank" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png"></a> &nbsp;&nbsp;
   <a href="https://huggingface.co/arun2484" target="_blank"><img alt="Hugging Face" width="40px" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"></a> &nbsp;&nbsp;
   <a href="https://www.kaggle.com/chinthalapallyarun" target="_blank"><img alt="Kaggle" width="40px" src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png"></a> &nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/31303298/arun-chinthalapally" target="_blank"><img alt="Stack Overflow" width="40px" src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png"></a>
+
 </p>
