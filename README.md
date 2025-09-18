@@ -10,7 +10,7 @@ I'm a Data Analytics and Machine Learning enthusiast who enjoys turning raw data
 - Completed multiple **data analytics and ML projects** using Python, SQL, Power BI, and Jupyter Notebook.
 
 ## ©️ Important Links
-- Portfolio: [Portfolio](https://your-portfolio-link.com)
+- Portfolio: [Portfolio](https://arun248-portfolio.vercel.app)
 - Projects: [GitHub](https://github.com/arun-248)
 - Linkedin: [LinkedIn](https://www.linkedin.com/in/arun-chinthalapally-7a254b256)
 - Resume: [Resume](https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing)
