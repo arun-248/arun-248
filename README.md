@@ -13,7 +13,7 @@ I'm a Data Analytics and Machine Learning enthusiast who enjoys turning raw data
 - Portfolio: [Portfolio](https://arun248-portfolio.vercel.app)
 - Projects: [GitHub](https://github.com/arun-248)
 - Linkedin: [LinkedIn](https://www.linkedin.com/in/arun-chinthalapally-7a254b256)
-- Resume: [Resume](https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing)
+- Resume: [Resume](https://drive.google.com/file/d/14D2dQVwI1rFPAfFn2NVEbzPA1hM8eocj/view?usp=sharing)
 
 ## 🛠 Skills  
 
