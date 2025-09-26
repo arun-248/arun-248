@@ -3,12 +3,12 @@
 
 I'm an Artificial Intelligence and Machine Learning enthusiast who enjoys building intelligent systems and creating predictive solutions.
 
-🌱 I’m currently exploring **advanced Artificial Intelligence, Machine Learning models, and Generative AI** to build **intelligent, data-driven solutions**.
+🌱 I’m currently exploring **Advanced Artificial Intelligence, Machine Learning models, and Generative AI** to build **intelligent, data-driven solutions**.
 
 
 
 ## 👩‍💻 Experience
-- Completed multiple **Artificial Intelligence, Machine Learning, and Generative AI projects** with a focus on **NLP and Large Language Models (LLMs)** using **Python, TensorFlow, PyTorch, and Jupyter Notebook**.
+- Completed multiple **Artificial Intelligence, Machine Learning, and Generative AI projects** with a focus on **NLP and Large Language Models (LLMs)** using **Python, TensorFlow and PyTorch**.
 
 ## ©️ Important Links
 - Portfolio: [Portfolio](https://arun248-portfolio.vercel.app)
@@ -16,16 +16,21 @@ I'm an Artificial Intelligence and Machine Learning enthusiast who enjoys buildi
 - Linkedin: [LinkedIn](https://www.linkedin.com/in/arun-chinthalapally-7a254b256)
 - Resume: [Resume](https://drive.google.com/file/d/14D2dQVwI1rFPAfFn2NVEbzPA1hM8eocj/view?usp=sharing)
 
-## 🛠 Skills  
+## 🛠️ Technical Skills  
 
-| Domain             | Tech Stack                                                                |  
-| ------------------ | -------------------------------------------------------------------------- |  
-| Data Science       | Python, pandas, numpy, SQL, Data Cleaning, EDA, Feature Engineering, Time Series Analysis |  
-| Machine Learning   | scikit-learn, Logistic Regression, Random Forest, XGBoost, Gradient Boosting, Hyperparameter Tuning |  
-| Artificial Intelligence | OpenAI GPT, LangChain, Hugging Face Transformers, Prompt Engineering, RAG (Retrieval-Augmented Generation), Fine-tuning, Knowledge Graphs, Vector Databases (Pinecone, FAISS), LLMOps |  
-| Data Visualization | Power BI, matplotlib, seaborn, Plotly, Interactive Dashboards, Data Storytelling |  
-| Tools & Technologies | Jupyter Notebook, Git, Google Colab, VS Code, Cloud Platforms (AWS, Azure) |  
-| Other Skills       | Cyber Security, Data Structures & Algorithms, OOPs, MERN |  
+| Domain                        | Tech Stack                                                                                                                        |  
+| ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |  
+| **Programming**               | Python (NumPy, Pandas, Scikit-learn, statsmodels), SQL, Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP)     |  
+| **Machine Learning**          | Supervised & Unsupervised Learning, Regression & Classification, Deep Learning (TensorFlow, PyTorch), Model Evaluation & Deployment, Hyperparameter Tuning, Ensemble Methods |  
+| **Artificial Intelligence**   | Natural Language Processing (NLP), Large Language Models (LLMs), Generative AI, Transformers, Retrieval-Augmented Generation (RAG), Agentic AI (LangChain), Hugging Face, Multi-Agent AI Systems |  
+| **Computer Vision**           | OpenCV, Convolutional Neural Networks (CNNs), Object Detection (YOLO, Faster R-CNN)                                               |  
+| **Data Science**              | Data Cleaning & Preprocessing, Exploratory Data Analysis (EDA), Feature Engineering, Statistical Modeling, Time Series Analysis    |  
+| **Data Analytics & Visualization** | Power BI, Tableau, Plotly, Matplotlib, Seaborn, Interactive Dashboards, Data Storytelling                                        |  
+| **Mathematical Foundations**  | Linear Algebra, Probability, Statistics, Calculus, Optimization for Machine Learning                                               |  
+| **Deployment & MLOps**        | Flask, FastAPI, Streamlit, Docker, MLflow                                                                                         |  
+| **Tools & Platforms**         | Jupyter Notebook, Google Colab, Git, GitHub, VS Code, Cloud Platforms (AWS, Azure, GCP)                                           |  
+| **Other Skills**              | Cybersecurity, MERN Stack                                                                                                         |  
+
 
 
 ## 🔭 Projects
