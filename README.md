@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Arun Chinthalapally</h1>
-<h3 align="center">A passionate AI, Machine Learning, and Data Analytics enthusiast from India. Currently looking for full-time roles in Data Analytics, Machine Learning, or AI-driven applications <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h3>
-.
-I'm a Data Analytics and Machine Learning enthusiast who enjoys turning raw data into actionable insights and building predictive models.
+<h3 align="center">An enthusiastic Artificial Intelligence and Machine Learning Engineer from India, passionate about building intelligent, autonomous systems  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h3>
 
-🌱 I’m currently exploring **cutting-edge Machine Learning algorithms, AI-driven predictive modeling, and sophisticated Data Visualization methodologies** to transform raw data into actionable insights.
+I'm an Artificial Intelligence and Machine Learning enthusiast who enjoys building intelligent systems and creating predictive solutions.
+
+🌱 I’m currently exploring **advanced Artificial Intelligence, Machine Learning models, and Generative AI** to build **intelligent, data-driven solutions**.
+
 
 
 ## 👩‍💻 Experience
-- Completed multiple **data analytics and ML projects** using Python, SQL, Power BI, and Jupyter Notebook.
+- Completed multiple **Artificial Intelligence, Machine Learning, and Generative AI projects** with a focus on **NLP and Large Language Models (LLMs)** using **Python, TensorFlow, PyTorch, and Jupyter Notebook**.
 
 ## ©️ Important Links
 - Portfolio: [Portfolio](https://arun248-portfolio.vercel.app)
