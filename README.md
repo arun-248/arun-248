@@ -14,7 +14,7 @@ I'm an Artificial Intelligence and Machine Learning enthusiast who enjoys buildi
 - Portfolio: [Portfolio](https://arun248-portfolio.vercel.app)
 - Projects: [GitHub](https://github.com/arun-248)
 - Linkedin: [LinkedIn](https://www.linkedin.com/in/arun-chinthalapally-7a254b256)
-- Resume: [Resume](https://drive.google.com/file/d/14D2dQVwI1rFPAfFn2NVEbzPA1hM8eocj/view?usp=sharing)
+- Resume: [Resume](https://drive.google.com/file/d/1bg9CcNQgJfGT18rl2eBoKk9m6wOTDn8n/view?usp=sharing)
 
 ## 🛠️ Technical Skills  
 
