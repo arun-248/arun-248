@@ -34,15 +34,28 @@ I'm an Artificial Intelligence and Machine Learning enthusiast who enjoys buildi
 
 
 ## 🔭 Projects
+
 <summary><b>Data Analytics & Machine Learning</b></summary>
 <br/>
 
-Project Name | Tools | Source Code | 
-------- | --------- | :--------: | 
-Stock Trend Analyzer | Python, Semantic Search, Vector Database, LLM | [Repo](https://github.com/arun-248/Stock-Trend-Analyzer.git)
-IPL Victory Probability Estimator | Python, ML, EDA | [Repo](https://github.com/arun-248/ipl-victory-prediction-system.git)
-Personalized Book Recommendation System | Python, Collaborative Filtering, Cosine Similarity | [Repo](https://github.com/arun-248/Personalized-Book-Recommender.git)
-Heart Disease Prediction | Python, Logistic Regression, ML | [Repo](https://github.com/arun-248/Heart-Disease-Prediction.git)
+Project Name | Tools | GitHub | Live Demo
+------- | --------- | :--------: | :--------: 
+🏏 IPL Win Probability App | Python, Logistic Regression, Streamlit | [Repo](https://github.com/arun-248/ipl-win-probability-app) | [Live](https://iplwinpredictorbyarun.streamlit.app/)  
+🫁 Lung Cancer Risk Analyzer | Python, Random Forest, Logistic Regression, Streamlit | [Repo](https://github.com/arun-248/lung-cancer-risk-analyzer) | [Live](https://arun24-lung-cancer-analyzer.streamlit.app/)  
+📚 Personalized Book Recommender | Python, Collaborative Filtering, Streamlit | [Repo](https://github.com/arun-248/Personalized-Book-Recommender) | [Live](https://arunpersonalizedbookrecommender.streamlit.app/)  
+❤️ Heart Disease Prediction | Python, Logistic Regression, ML | [Repo](https://github.com/arun-248/Heart-Disease-Prediction) | [Live]([https://heart-disease-prediction.streamlit.app/](https://github.com/arun-248/Heart-Disease-Prediction))  
+
+---
+
+<summary><b>AI Applications</b></summary>
+<br/>
+
+Project Name | Tools | GitHub
+------- | --------- | :--------:  
+🤖 Agentic RAG Chatbot (MCP) | Python, Streamlit, FAISS, Multi-Agent LLMs | [Repo](https://github.com/arun-248/Agentic-RAG-Chatbot-MCP)  
+🎤 GPT-Based Smart Assistant | Python, Speech-to-Text, GPT-4o, TTS | [Repo](https://github.com/arun-248/GPT-Based-Smart-Assistant)  
+🧠 Generative AI with Transformers | Hugging Face, NLP, Transformers, Fine-Tuning | [Repo](https://github.com/arun-248/generative-ai-with-transformers)  
+
 
 <details>
 <summary> <h3>📊 GitHub Statistics</h3> </summary>
