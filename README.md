@@ -50,11 +50,16 @@ Project Name | Tools | GitHub | Live Demo
 <summary><b>AI Applications</b></summary>
 <br/>
 
-Project Name | Tools | GitHub
-------- | --------- | :--------:  
-🤖 Agentic RAG Chatbot (MCP) | Python, Streamlit, FAISS, Multi-Agent LLMs | [Repo](https://github.com/arun-248/Agentic-RAG-Chatbot-MCP)  
-🎤 GPT-Based Smart Assistant | Python, Speech-to-Text, GPT-4o, TTS | [Repo](https://github.com/arun-248/GPT-Based-Smart-Assistant)  
-🧠 Generative AI with Transformers | Hugging Face, NLP, Transformers, Fine-Tuning | [Repo](https://github.com/arun-248/generative-ai-with-transformers)  
+### 🚀 Projects
+
+Project Name | Tools | GitHub | Live Demo
+------- | --------- | :--------: | :--------:
+🧩 **AI Study Buddy** | React, FastAPI, TailwindCSS, Google Gemini 2.5 Flash, AI Tutoring | [Repo](https://github.com/arun-248/Ai-Study-Buddy) | [Live](https://aistudybuddybyarun.vercel.app/)
+🤖 **Agentic RAG Chatbot (MCP)** | Python, Streamlit, FAISS, Multi-Agent LLMs | [Repo](https://github.com/arun-248/Agentic-RAG-Chatbot-MCP) | [Live](https://arun24ragchatbot.streamlit.app/)
+🎤 **GPT-Based Smart Assistant** | Python, Speech-to-Text, GPT-4o, TTS | [Repo](https://github.com/arun-248/GPT-Based-Smart-Assistant) | [Live]([https://github.com/arun-248/GPT-Based-Smart-Assistant](https://github.com/arun-248/GPT-Based-Smart-Assistant))  
+🧠 **Generative AI with Transformers** | Hugging Face, NLP, Transformers, Fine-Tuning | [Repo](https://github.com/arun-248/generative-ai-with-transformers) | [Live]([https://github.com/arun-248/generative-ai-with-transformers](https://github.com/arun-248/generative-ai-with-transformers))  
+
+ 
 
 
 <details>
