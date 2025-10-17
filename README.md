@@ -45,12 +45,9 @@ Project Name | Tools | GitHub | Live Demo
 📚 Personalized Book Recommender | Python, Collaborative Filtering, Streamlit | [Repo](https://github.com/arun-248/Personalized-Book-Recommender) | [Live](https://arunpersonalizedbookrecommender.streamlit.app/)  
 ❤️ Heart Disease Prediction | Python, Logistic Regression, ML | [Repo](https://github.com/arun-248/Heart-Disease-Prediction) | [Live]([https://heart-disease-prediction.streamlit.app/](https://github.com/arun-248/Heart-Disease-Prediction))  
 
----
 
 <summary><b>AI Applications</b></summary>
 <br/>
-
-### 🚀 Projects
 
 Project Name | Tools | GitHub | Live Demo
 ------- | --------- | :--------: | :--------:
