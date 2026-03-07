@@ -35,29 +35,26 @@ I'm an Artificial Intelligence and Machine Learning enthusiast who enjoys buildi
 
 ## 🔭 Projects
 
-<summary><b>Data Analytics & Machine Learning</b></summary>
-<br/>
-
-Project Name | Tools | GitHub | Live Demo
-------- | --------- | :--------: | :--------: 
-🏏 IPL Win Probability App | Python, Logistic Regression, Streamlit | [Repo](https://github.com/arun-248/ipl-win-probability-app) | [Live](https://iplwinpredictorbyarun.streamlit.app/)  
-🫁 Lung Cancer Risk Analyzer | Python, Random Forest, Logistic Regression, Streamlit | [Repo](https://github.com/arun-248/lung-cancer-risk-analyzer) | [Live](https://arun24-lung-cancer-analyzer.streamlit.app/)  
-📚 Personalized Book Recommender | Python, Collaborative Filtering, Streamlit | [Repo](https://github.com/arun-248/Personalized-Book-Recommender) | [Live](https://arunpersonalizedbookrecommender.streamlit.app/)  
-❤️ Heart Disease Prediction | Python, Logistic Regression, ML | [Repo](https://github.com/arun-248/Heart-Disease-Prediction) | [Live]([https://heart-disease-prediction.streamlit.app/](https://github.com/arun-248/Heart-Disease-Prediction))  
-
-
 <summary><b>AI Applications</b></summary>
 <br/>
 
 Project Name | Tools | GitHub | Live Demo
 ------- | --------- | :--------: | :--------:
+🎯 **Image Intelligence Risk Analysis System** | Python, YOLOv8, MobileNetV2, TensorFlow, OpenCV, Streamlit, Plotly | [Repo](https://github.com/arun-248/Image-Intelligence-Risk-Analysis-System) | [Live](https://visioniqbyarun.streamlit.app/)
+💼 **Job Fit Analyzer** | Python, spaCy, NLTK, scikit-learn, Google Gemini AI, FastAPI, Streamlit | [Repo](https://github.com/arun-248/JOB-FIT-ANALYZER) | [Live](https://jobfitanalyzerbyarun.streamlit.app/)
 🧩 **AI Study Buddy** | React, FastAPI, TailwindCSS, Google Gemini 2.5 Flash, AI Tutoring | [Repo](https://github.com/arun-248/Ai-Study-Buddy) | [Live](https://aistudybuddybyarun.vercel.app/)
 🤖 **Agentic RAG Chatbot (MCP)** | Python, Streamlit, FAISS, Multi-Agent LLMs | [Repo](https://github.com/arun-248/Agentic-RAG-Chatbot-MCP) | [Live](https://arun24ragchatbot.streamlit.app/)
-🎤 **GPT-Based Smart Assistant** | Python, Speech-to-Text, GPT-4o, TTS | [Repo](https://github.com/arun-248/GPT-Based-Smart-Assistant) | [Live]([https://github.com/arun-248/GPT-Based-Smart-Assistant](https://github.com/arun-248/GPT-Based-Smart-Assistant))  
-🧠 **Generative AI with Transformers** | Hugging Face, NLP, Transformers, Fine-Tuning | [Repo](https://github.com/arun-248/generative-ai-with-transformers) | [Live]([https://github.com/arun-248/generative-ai-with-transformers](https://github.com/arun-248/generative-ai-with-transformers))  
+🎤 **GPT-Based Smart Assistant** | Python, Speech-to-Text, GPT-4o, TTS | [Repo](https://github.com/arun-248/GPT-Based-Smart-Assistant) | [Live](https://github.com/arun-248/GPT-Based-Smart-Assistant)
 
- 
+<summary><b>Data Analytics & Machine Learning</b></summary>
+<br/>
 
+Project Name | Tools | GitHub | Live Demo
+------- | --------- | :--------: | :--------:
+🏏 **IPL Win Probability App** | Python, Logistic Regression, Streamlit | [Repo](https://github.com/arun-248/ipl-win-probability-app) | [Live](https://iplwinpredictorbyarun.streamlit.app/)
+🫁 **Lung Cancer Risk Analyzer** | Python, Random Forest, Logistic Regression, Streamlit | [Repo](https://github.com/arun-248/lung-cancer-risk-analyzer) | [Live](https://arun24-lung-cancer-analyzer.streamlit.app/)
+📚 **Personalized Book Recommender** | Python, Collaborative Filtering, Streamlit | [Repo](https://github.com/arun-248/Personalized-Book-Recommender) | [Live](https://arunpersonalizedbookrecommender.streamlit.app/)
+❤️ **Heart Disease Prediction** | Python, Logistic Regression, ML | [Repo](https://github.com/arun-248/Heart-Disease-Prediction) | [Live](https://github.com/arun-248/Heart-Disease-Prediction)
 
 <details>
 <summary> <h3>📊 GitHub Statistics</h3> </summary>
